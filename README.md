@@ -1,11 +1,13 @@
-## Rs-fMRI correlation brain network data generated from the study
+## Rs-fMRI correlation brain network data (400 subjects)
+
+The 400 subjects rs-fMRI correlation brain network data (400 subjects) obtained from the study
 
 [1] Huang, S.-G., Samdin, S.B., Ting, C.M., Ombao, H., Chung, M.K. 2020
 Statistical model for dynamically-changing correlation matrices 
 with application to brain connectivity. Journal of Neuroscience Methods 331:108480
 http://pages.stat.wisc.edu/~mchung/papers/huang.2020.NM.pdf
 
-The raw rs-fMRI went though the processing steps (only motion correction, bandpass filtering) described in.
+is avaiable here. The raw rs-fMRI went though the processing steps (only motion correction, bandpass filtering) described in.
 These correlation marices are further used in the following studies
 
 [2] Chung, M.K., El-Yaagoubi,A.B., Qiu, A., Ombao, H. 2025, From Density to Void: Why Brain Networks Fail to Reveal Complex Higher-Order 
