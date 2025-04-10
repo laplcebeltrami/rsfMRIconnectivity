@@ -17,7 +17,7 @@ Structures, arXiv:2503.14700, https://arxiv.org/abs/2503.14700
 https://par.nsf.gov/servlets/purl/10478240
 
 [4] Anand,D.V., Chung, M.K., 2023 Hodge Laplacian of brain networks, IEEE transactions on medical imaging 42:1563-1573
-https://arxiv.org/abs/2110.14599,
+https://arxiv.org/abs/2110.14599
 
 If you are using the data, reference one of these papers.
 
