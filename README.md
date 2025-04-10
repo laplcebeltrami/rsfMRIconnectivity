@@ -1,4 +1,4 @@
-%% Rs-fMRI correlation brain network data generated from the study
+## Rs-fMRI correlation brain network data generated from the study
 
 [1] Huang, S.-G., Samdin, S.B., Ting, C.M., Ombao, H., Chung, M.K. 2020
 Statistical model for dynamically-changing correlation matrices 
