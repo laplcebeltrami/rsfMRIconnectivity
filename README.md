@@ -7,7 +7,7 @@ Statistical model for dynamically-changing correlation matrices
 with application to brain connectivity. Journal of Neuroscience Methods 331:108480
 http://pages.stat.wisc.edu/~mchung/papers/huang.2020.NM.pdf
 
-is avaiable here. The raw rs-fMRI went though the processing steps (only motion correction, bandpass filtering) described in.
+is avaiable here. The raw rs-fMRI went though the processing steps (only motion correction, bandpass filtering) described in the paper.
 These correlation marices are further used in the following studies
 
 [2] Chung, M.K., El-Yaagoubi,A.B., Qiu, A., Ombao, H. 2025, From Density to Void: Why Brain Networks Fail to Reveal Complex Higher-Order 
