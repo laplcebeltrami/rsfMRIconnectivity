@@ -13,7 +13,7 @@ These correlation marices are further used in the following studies
 [2] Chung, M.K., El-Yaagoubi,A.B., Qiu, A., Ombao, H. 2025, From Density to Void: Why Brain Networks Fail to Reveal Complex Higher-Order 
 Structures, arXiv:2503.14700, https://arxiv.org/abs/2503.14700
 
-[3] Songdechakraiwut, T., Chung, M.K., 2023 Topological learning for brain networks, The annals of applied statistics 17: 403-433
+[3] Songdechakraiwut, T., Chung, M.K., 2023 Topological learning for brain networks, The Annals of Applied Statistics 17: 403-433
 https://par.nsf.gov/servlets/purl/10478240
 
 [4] Anand,D.V., Chung, M.K., 2023 Hodge Laplacian of brain networks, IEEE transactions on medical imaging 42:1563-1573
