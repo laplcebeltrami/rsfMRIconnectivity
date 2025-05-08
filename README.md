@@ -1,6 +1,6 @@
 ## Rs-fMRI correlation brain network data (400 subjects)
 
-The 400 subjects rs-fMRI correlation brain network data (400 subjects) obtained from the study
+The 400 subjects rs-fMRI correlation brain network data obtained from the study
 
 [1] Huang, S.-G., Samdin, S.B., Ting, C.M., Ombao, H., Chung, M.K. 2020
 Statistical model for dynamically-changing correlation matrices 
